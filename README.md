@@ -1,1 +1,3 @@
-# Data Science Competition Portal 
+# Data Science Competition Portal
+
+**Ashwini Mathur**
